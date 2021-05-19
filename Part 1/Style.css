@@ -1,0 +1,22 @@
+.row {
+  display: flex;
+}
+.col {
+  background-color: cadetblue;
+  color: antiquewhite;
+  flex: 1;
+  margin: 5px;
+}
+.col-2 {
+  background-color: cadetblue;
+  color: antiquewhite;
+  flex: 2;
+  margin: 5px;
+}
+
+.col-3 {
+  background-color: cadetblue;
+  color: antiquewhite;
+  flex: 3;
+  margin: 5px;
+}
